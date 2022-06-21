@@ -1,5 +1,5 @@
 # blog-ios-livetext
-Live Text API demo for both Image and Live Scan Camera Based.
+Live Text API demo for both Image and Live Scan Camera Based using VisionKit framework from WWDC 2022.
 
 ## DemoLiveTextImageSwiftUI
 https://user-images.githubusercontent.com/99884829/174728275-83f3f143-c982-46e9-8f4a-1c021ed34296.mov
